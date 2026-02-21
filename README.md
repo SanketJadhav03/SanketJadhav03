@@ -1,52 +1,40 @@
 # Hi 👋 I'm Sanket Jadhav
 
-🚀 Full Stack Developer (MERN Stack)
-
-💻 Working at Ajspire Technologies
-
----
-
-## 👨‍💻 About Me
-
-- MERN Stack Developer
-- Flutter Developer
-- PHP Developer
-- 2+ Years Experience
+🚀 Full Stack Developer | MERN Stack  
+💻 Flutter & Web Developer  
+🏢 Full Stack Developer at Ajspire Technologies
 
 ---
 
-## 🚀 Skills
+### 💼 Tech Stack
 
-✔ React.js  
-✔ Node.js  
-✔ MongoDB  
-✔ Express.js  
-✔ Flutter  
-✔ MySQL  
-✔ PHP  
+⚡ React.js • Node.js • MongoDB • Express.js  
+⚡ Flutter • MySQL • PHP • REST API
 
 ---
 
-## 🔥 Projects
+### 🚀 Projects
 
-📌 College Management System
-
-📌 Canteen Automation System
-
-📌 POS Billing System
-
-📌 Online Shopping System
+🔹 POS Billing System  
+🔹 Canteen Automation System  
+🔹 College Management System  
+🔹 MERN Portfolio Website
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=SanketJadhav03&show_icons=true)
+![stats](https://github-readme-stats.vercel.app/api?username=SanketJadhav03&show_icons=true&theme=tokyonight)
 
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SanketJadhav03)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SanketJadhav03&layout=compact&theme=tokyonight)
 
 ---
 
-## 📫 Contact
+### 📫 Connect
 
-📧 Email: yourmail@gmail.com
+📧 Email: yourmail@gmail.com  
+💼 LinkedIn: yourlink
+
+---
+
+⭐ "Code. Build. Improve."
