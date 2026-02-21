@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi 👋 I'm Sanket Jadhav
 
-<!--
-**SanketJadhav03/SanketJadhav03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer (MERN Stack)
 
-Here are some ideas to get you started:
+💻 Working at Ajspire Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- MERN Stack Developer
+- Flutter Developer
+- PHP Developer
+- 2+ Years Experience
+
+---
+
+## 🚀 Skills
+
+✔ React.js  
+✔ Node.js  
+✔ MongoDB  
+✔ Express.js  
+✔ Flutter  
+✔ MySQL  
+✔ PHP  
+
+---
+
+## 🔥 Projects
+
+📌 College Management System
+
+📌 Canteen Automation System
+
+📌 POS Billing System
+
+📌 Online Shopping System
+
+---
+
+## 📊 GitHub Stats
+
+![stats](https://github-readme-stats.vercel.app/api?username=SanketJadhav03&show_icons=true)
+
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SanketJadhav03)
+
+---
+
+## 📫 Contact
+
+📧 Email: yourmail@gmail.com
