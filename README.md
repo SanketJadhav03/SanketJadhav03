@@ -1,80 +1,237 @@
-<!-- HEADER BANNER -->
+````markdown
+<!-- ========================================= -->
+<!--         SHADOW MONARCH • DEV PROFILE      -->
+<!-- ========================================= -->
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sanket%20Jadhav&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Flutter&descAlignY=55" width="100%" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:090909,30:111827,70:2563EB,100:7C3AED&text=SANKET%20JADHAV&fontColor=ffffff&fontSize=55&fontAlignY=35&animation=fadeIn&desc=⚔️%20Shadow%20Monarch%20of%20Code%20•%20Full%20Stack%20Developer%20•%20Flutter&descAlignY=56"/>
+
 </div>
 
-<!-- TYPING ANIMATION -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=500&color=3B9EFF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Sanket+Jadhav;Full+Stack+MERN+%26+Flutter+Developer;Building+scalable+web+%26+mobile+apps;Code.+Build.+Ship." alt="Typing SVG" />
-  </a>
-</p>
+<div align="center">
 
-<!-- SOCIAL & QUICK LINKS -->
-<p align="center">
-  <a href="https://linkedin.com/in/developersanket" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:dev.sanketjadhav@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/SanketJadhav03"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=SanketJadhav03&style=for-the-badge&color=3B9EFF" alt="Profile views" />
-</p>
+# ⚔️ 影 (Kage) — The Silent Developer
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=800&color=4F8DFF&center=true&vCenter=true&width=700&lines=Wake.+Code.+Conquer.;Building+Powerful+Digital+Experiences.;React+%7C+Node.js+%7C+Flutter+%7C+MySQL.;No+Magic.+Only+Discipline.;Every+Commit+Levels+Up."/>
 
-### 👋 About Me
+<br>
 
-I am a **Full Stack Developer** specializing in the **MERN Stack** and mobile development with **Flutter**. I focus on building performant, responsive, and visually intuitive web applications that deliver seamless user experiences.
+<a href="https://github.com/SanketJadhav03">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-* 🔭 **Currently Working On:** Full-stack MERN applications & clean UI design systems.
-* 🌱 **Currently Learning:** Next.js, TypeScript, and microservices architecture.
-* 👯 **Looking to Collaborate On:** Open-source MERN stack and frontend projects.
-* 💬 **Ask Me About:** React, Node.js, Express, MongoDB, Tailwind CSS, and Flutter.
+<a href="https://linkedin.com/in/developersanket">
+<img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:dev.sanketjadhav@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=SanketJadhav03&style=for-the-badge&color=2563EB"/>
+
+</div>
 
 ---
 
-### 🛠️ Tech Stack
+# 🗡️ Assassin Profile
 
-#### **Frontend & Mobile**
-<p align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-</p>
+```yaml
+Name: Sanket Jadhav
 
-#### **Backend & Databases**
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-</p>
+Class: Full Stack Developer
 
-#### **Design & Tools**
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-</p>
+Rank: S
+
+Specialization:
+  - React.js
+  - Node.js
+  - Express.js
+  - MySQL
+  - MongoDB
+  - Flutter
+
+Mission:
+  Build products that are fast,
+  scalable and beautiful.
+
+Current Quest:
+  • Advanced Backend Architecture
+  • Next.js
+  • TypeScript
+  • AI Powered Applications
+
+Motto:
+  "Silent execution always defeats loud promises."
+```
 
 ---
 
-### 💻 Developer Snapshot
+# ⚡ About Me
+
+```text
+while(alive){
+
+    Learn();
+
+    Build();
+
+    Ship();
+
+    Repeat();
+
+}
+```
+
+I enjoy transforming ideas into production-ready software.
+
+My primary expertise lies in building scalable applications using the MERN stack,
+developing Flutter mobile apps, designing responsive user interfaces,
+creating secure REST APIs, and crafting clean backend architectures.
+
+I believe software should not only work...
+it should feel effortless.
+
+---
+
+# ⚔️ Weapons
+
+<div align="center">
+
+### Frontend Arsenal
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,redux,html,css,tailwind,bootstrap"/>
+
+### Backend Arsenal
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase"/>
+
+### Mobile Arsenal
+
+<img src="https://skillicons.dev/icons?i=flutter,dart"/>
+
+### Developer Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,docker"/>
+
+</div>
+
+---
+
+# ⚔️ Combat Stats
+
+```text
+██████████████████████████████
+
+React.js        ████████████████ 95%
+
+Node.js         ███████████████ 92%
+
+Express.js      ██████████████ 91%
+
+REST APIs       ███████████████ 94%
+
+MySQL           █████████████ 89%
+
+MongoDB         █████████████ 88%
+
+Flutter         █████████████ 87%
+
+UI/UX           ██████████████ 90%
+
+Performance     ██████████████ 91%
+
+Problem Solving ███████████████ 95%
+```
+
+---
+
+# 🥷 Current Mission
 
 ```javascript
-const sanket = {
-  code: ["JavaScript", "TypeScript", "Dart", "HTML/CSS"],
-  technologies: {
-    frontend: ["React", "Next.js", "Tailwind CSS", "Redux"],
-    backend: ["Node.js", "Express.js", "REST APIs"],
-    database: ["MongoDB", "MySQL", "Firebase"],
-    mobile: ["Flutter"]
-  },
-  currentFocus: "Building scalable web apps & mastering Next.js",
-  architecture: "Clean, maintainable, and component-driven code"
-};
+const shadowMonarch = {
+
+    title: "Full Stack Developer",
+
+    languages: [
+        "JavaScript",
+        "TypeScript",
+        "Dart"
+    ],
+
+    frontend: [
+        "React.js",
+        "Redux Toolkit",
+        "Bootstrap",
+        "Tailwind CSS",
+        "Next.js"
+    ],
+
+    backend: [
+        "Node.js",
+        "Express.js",
+        "REST APIs",
+        "JWT Authentication",
+        "Multer",
+        "Sequelize"
+    ],
+
+    databases: [
+        "MongoDB",
+        "MySQL",
+        "Firebase"
+    ],
+
+    mobile: [
+        "Flutter"
+    ],
+
+    tools: [
+        "Git",
+        "GitHub",
+        "Postman",
+        "Docker",
+        "VS Code",
+        "Figma"
+    ],
+
+    philosophy: [
+        "Readable Code",
+        "Reusable Components",
+        "Performance First",
+        "Ship Fast"
+    ],
+
+    status: "Building products one commit at a time."
+}
+```
+
+---
+
+# 🗡️ Developer Principles
+
+> ⚔️ Every bug is an enemy.
+
+> ⚔️ Every deployment is a battle won.
+
+> ⚔️ Every project increases experience.
+
+> ⚔️ Consistency beats motivation.
+
+> ⚔️ Clean code is the sharpest weapon.
+
+---
+
+# 🌌 Final Quote
+
+<div align="center">
+
+## 「 Shadows don't fear the darkness.
+
+## They become it.
+
+### ⚔️ Build. Improve. Repeat.
+
+</div>
+````
